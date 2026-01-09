@@ -1,5 +1,4 @@
 # Tragamonedas
-
 Pequeño juego de tragamonedas con interfaz Swing.
 
 ## Ejecutar desde VS Code
@@ -15,3 +14,7 @@ Pequeño juego de tragamonedas con interfaz Swing.
   - `src/Figuras/` (figuras de carretes 1..7.jpeg)
   - `src/sonidos/` (WAV)
 - Vuelve a ejecutar el build para empaquetarlas en el JAR.
+
+## Autores
+- Angelo Emmanuel Flores Montes
+- Luis Enrique Machorro Tronco
